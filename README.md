@@ -31,7 +31,7 @@ def circulate():
 ```
 
 ## Output:
-![eig](output.png)
+![eig](Screenshot_20230124_123722.png)
 
 ## Result:
 Thus the program executed sucessfully
